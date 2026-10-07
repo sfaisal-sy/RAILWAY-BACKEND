@@ -14,6 +14,16 @@ const users = [
         name:"vitoria",
         email:"victoria@example.com"
     },
+    {
+        id:4,
+        name:"Jasica",
+        email:"victoria@example.com"
+    },
+    {
+        id:5,
+        name:"Alba",
+        email:"victoria@example.com"
+    }
 ];
 
 export default users;
